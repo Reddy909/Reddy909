@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nithn Reddy
-- 👀 I’m interested in ...Data Entry
-- 🌱 I’m currently learning ...Execl
-- 💞️ I’m looking to collaborate on ...freelancer work
+- 👀 I’m interested in ...Data Analyst
+- 🌱 I’m currently learning ...Data Analysis 
+- 💞️ I’m looking to collaborate on a remote job
 - 📫 How to reach me ...my whats app no-8919664145
 
 <!---
